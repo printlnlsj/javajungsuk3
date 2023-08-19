@@ -1,5 +1,8 @@
 package ch6;
 
+/**
+ * 예제 6-6
+ */
 public class MyMathTest {
     public static void main(String[] args) {
         MyMath mm = new MyMath();

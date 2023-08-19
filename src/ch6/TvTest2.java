@@ -1,5 +1,8 @@
 package ch6;
 
+/**
+ * 예제 6-2
+ */
 class Tv2 {
     // Tv의 속성(멤버변수);
     String color; // 색상

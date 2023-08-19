@@ -1,5 +1,10 @@
 package ch6;
 
+/**
+ * 예제 6-9
+ * flash영상 PrimitiveParam.exe 참조
+ */
+
 class Data { int x; }
 
 public class PrimitiveParamEx {

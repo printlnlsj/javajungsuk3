@@ -1,5 +1,10 @@
 package ch6;
 
+/**
+ * 예제 6-10
+ * flash영상 ReferenceParam.exe 참조
+ */
+
 class Data1 { int x; }
 public class ReferenceParamEx {
     public static void main(String[] args) {
